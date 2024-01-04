@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="sublogo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 217.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #252569;
+      }
+
+      .cls-2 {
+        fill: #8dcc90;
+      }
+
+      .cls-3 {
+        font-size: 14.61px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: ArialNarrow, Arial;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #17144a;
+      }
+
+      .cls-6 {
+        fill: #62c193;
+      }
+
+      .cls-7 {
+        fill: #ef3d3b;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        font-size: 44.46px;
+      }
+
+      .cls-4, .cls-9 {
+        fill: #48bd98;
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+
+      .cls-11 {
+        fill: #6fc283;
+      }
+
+      .cls-12 {
+        fill: #6c78b9;
+      }
+
+      .cls-13 {
+        fill: #077a3e;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-10" y="18.38" width="200" height="63.06"/>
+    </clipPath>
+  </defs>
+  <g class="cls-8">
+    <rect class="cls-11" y="0" width="17.94" height="15.32"/>
+    <rect class="cls-6" x="17.94" y="0" width="17.94" height="15.32"/>
+    <rect class="cls-9" x="35.87" y="0" width="17.94" height="15.32"/>
+    <rect class="cls-2" x="53.81" y="0" width="17.94" height="15.32"/>
+    <rect class="cls-7" x="71.74" y="0" width="17.94" height="15.32"/>
+    <rect class="cls-12" x="89.93" y="0" width="17.94" height="15.32"/>
+    <rect class="cls-9" x="143.49" y="0" width="17.94" height="15.32"/>
+    <rect class="cls-5" x="160.93" y="0" width="17.94" height="15.32"/>
+    <rect class="cls-1" x="178.87" width="17.94" height="15.32"/>
+    <rect class="cls-13" x="126.05" y="0" width="17.94" height="15.32"/>
+    <g>
+      <g>
+        <path class="cls-5" d="m35.61,56.81l-4.58-15.86c-.08-.29-.07-.6.05-.87l4.25-10.15c.36-.87-.27-1.83-1.22-1.83h-15.7c-3.58,0-6.51,2.93-6.51,6.51v22.57c0,.73.59,1.32,1.32,1.32h4.36c-1.48-3.33.15-8.16,4.9-8.16s6.38,4.84,4.89,8.16h6.98c.88,0,1.51-.84,1.27-1.68Z"/>
+        <path class="cls-5" d="m60.09,28.38s0-.23-.16-.38c-.1-.1-.23-.16-.38-.16h-8.22c-.3,0-.54.24-.54.54l.02,11.26c0,.29-.23.53-.52.54l-2.16.1c-.31.01-.57-.24-.57-.55l.12-11.35c0-.3-.24-.55-.54-.55h-8.87c-.21,0-.41.13-.49.32l-4.39,9.73-1.12,2.47c-.06.12-.06.26-.02.39l5.55,17.11c.07.22.28.38.52.38h6.1c-2.51-3.21-1.11-9.29,4.21-9.29s6.72,6.08,4.21,9.29h6.73c.3,0,.54-.24.54-.54v-5.62c0-1.79,0-3.58,0-5.38,0-6.11,0-12.21,0-18.32Z"/>
+        <ellipse class="cls-5" cx="22.39" cy="55.56" rx="4.53" ry="4.6"/>
+        <ellipse class="cls-5" cx="48.66" cy="54.54" rx="4.53" ry="4.6"/>
+        <path class="cls-5" d="m60.36,55.84v-1.72c.79,0,1.43.78,1.43,1.72s-.65,1.72-1.43,1.72c0,0-.02,0-.02,0l.02-1.72Z"/>
+      </g>
+      <rect class="cls-5" x="62.92" y="27.2" width="1.71" height="32.85"/>
+      <g>
+        <path class="cls-5" d="m69.5,59.51v-31.57h5.21v14.05l10.58-14.05h7.04l-9.76,12.3,10.28,19.27h-6.76l-7.14-14.84-4.24,5.3v9.54h-5.21Z"/>
+        <path class="cls-5" d="m95.49,27.94h5.21v17.1c0,2.66.06,4.39.19,5.19.23,1.39.78,2.47,1.65,3.23s2.02,1.14,3.44,1.14c1.21,0,2.19-.27,2.96-.81.76-.54,1.28-1.28,1.56-2.24.28-.95.42-3,.42-6.15v-17.46h5.21v16.58c0,4.24-.23,7.3-.68,9.18s-1.47,3.42-3.06,4.59c-1.59,1.17-3.68,1.76-6.28,1.76s-4.81-.48-6.32-1.45-2.61-2.33-3.29-4.09-1.02-5-1.02-9.72v-16.84Z"/>
+      </g>
+      <text class="cls-4" transform="translate(116.11 59.83)"><tspan x="0" y="0">BUS</tspan></text>
+      <text class="cls-3" transform="translate(71.16 56.71)"><tspan x="0" y="0"> </tspan></text>
+    </g>
+  </g>
+</svg>
